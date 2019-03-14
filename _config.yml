@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 
 menus:
     main:
-    - Home: /
+    - Home: /init.md
     side:
-    - Horse: /
+    - Horse: /*
